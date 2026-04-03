@@ -1,0 +1,3 @@
+#! /usr/bin/env python3 
+#shebang é uma linha de código que indica qual interpretador deve ser usado para executar o script. No caso, estamos usando o Python 3.
+print("Hello, Word!")
